@@ -1,4 +1,4 @@
-# Mohamed-Ahmed# Hi, I'm Mohamed 👋
+# Hi, I'm Mohamed 👋
 
 I'm a budding Front-End Developer exploring HTML, CSS, and JavaScript.  
 Currently learning Full Stack Development through a 65-hour Udemy course.  
