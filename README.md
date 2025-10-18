@@ -5,8 +5,8 @@ Currently learning Full Stack Development through a 65-hour Udemy course.
 
 ## 🛠 Skills
 - HTML, CSS, JavaScript
-- App Dev
-- Git & GitHub
+- App Dev: andriod studio, fluterr (learning)
+- GitHub
 - React (learning)
 
 ## 🌱 Currently Learning
