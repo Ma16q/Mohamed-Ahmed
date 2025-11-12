@@ -1,12 +1,13 @@
 # Hi, I'm Mohamed 👋
 
 I'm a budding Front-End Developer exploring HTML, CSS, and JavaScript.  
-Currently learning Full Stack Development through a 65-hour Udemy course.  
+Currently learning Full Stack Development through a 65-hour Udemy course & Set Up an App Dev Environment on Google Cloud
+
 
 ## 🛠 Skills
-- HTML, CSS, JavaScript
+- HTML, CSS, Java
 - App Dev: andriod studio, fluterr (learning)
-- GitHub
+- GitHub 
 - React (learning)
 
 ## 🌱 Currently Learning
